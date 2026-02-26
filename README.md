@@ -3,18 +3,18 @@ This is my first repository!
 
 ## Table of Contents
 
-- [Project Title](#project-title)
-- [Description](#description)
-- [Tools Used](#tools-used)
-- [Files Used](#files-used)
-- [How to run program](#how-to-run-program)
-- [Additional Information](#additional-information)
+1. [Project Title](#project-title)
+2. [Description](#description)
+3. [Tools Used](#tools-used)
+4. [Files Used](#files-used)
+5. [How to run program](#how-to-run-program)
+6. [Additional Information](#additional-information)
 
 ## _Project Title_ 
 FIFA Stats
 
 ## _Description_
-This project was for my Foundations of Business Analytics class. We perfomed descriptive, diagnostic, and predictive analysis in Microsoft Excel to understand what qualities make one player more valuable than another in FIFA. The data collected was visualized using bar charts, scatterplots, and correlation matrices. 
+This project was for my **Foundations of Business Analytics class**. We perfomed **descriptive, diagnostic, and predictive analysis** in **Microsoft Excel** to understand what qualities make one player more valuable than another in FIFA. The data collected was visualized using **bar charts, scatterplots, and correlation matrices**. 
 
 ## _Tools Used_
 Microsoft Excel
