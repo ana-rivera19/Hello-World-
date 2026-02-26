@@ -1,5 +1,5 @@
-# Hello-World-
-First Repository
+# Hello _World_! 🌎
+This is my first repository!
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ First Repository
 - [How to run program](#how-to-run-program)
 - [Additional Information](#additional-information)
 
-## _Project Title_
+## _Project Title_ 
 FIFA Stats
 
 ## _Description_
